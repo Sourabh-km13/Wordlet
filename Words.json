@@ -1,85 +1,59 @@
 {
-    "wordLet": [
-      {
-        "word": "Penguin",
-        "hint": "A type of bird"
-      },
-      {
-        "word": "Umbrella",
-        "hint": "A weather-related object"
-      },
-      {
-        "word": "Volcano",
-        "hint": "A natural landform"
-      },
-      {
-        "word": "Puzzle",
-        "hint": "A form of entertainment or challenge"
-      },
-      {
-        "word": "Sapphire",
-        "hint": "A type of gemstone"
-      },
-      {
-        "word": "Oasis",
-        "hint": "A natural feature found in dry places"
-      },
-      {
-        "word": "Whistle",
-        "hint": "A type of sound or tool"
-      },
-      {
-        "word": "Igloo",
-        "hint": "A type of dwelling"
-      },
-      {
-        "word": "Lighthouse",
-        "hint": "A structure used for navigation"
-      },
-      {
-        "word": "Scorpion",
-        "hint": "A desert-dwelling animal"
-      },
-      {
-        "word": "Banana",
-        "hint": "A type of fruit"
-      },
-      {
-        "word": "Telescope",
-        "hint": "A tool used for seeing faraway things"
-      },
-      {
-        "word": "Cactus",
-        "hint": "A type of plant"
-      },
-      {
-        "word": "Eclipse",
-        "hint": "A rare celestial event"
-      },
-      {
-        "word": "Lantern",
-        "hint": "A portable light source"
-      },
-      {
-        "word": "Parrot",
-        "hint": "A type of bird"
-      },
-      {
-        "word": "Trampoline",
-        "hint": "A piece of recreational equipment"
-      },
-      {
-        "word": "Castle",
-        "hint": "A structure associated with royalty"
-      },
-      {
-        "word": "Butterfly",
-        "hint": "An insect"
-      },
-      {
-        "word": "Submarine",
-        "hint": "A type of vehicle used underwater"
-      }
-    ]
-  }
-  
+  "wordLet": [
+    { "word": "Penguin", "hint": "A type of bird often found in cold climates" },
+    { "word": "Umbrella", "hint": "An object used for protection against precipitation" },
+    { "word": "Volcano", "hint": "A geological feature that can release molten rock" },
+    { "word": "Puzzle", "hint": "An activity that challenges problem-solving skills" },
+    { "word": "Sapphire", "hint": "A precious stone often associated with blue" },
+    { "word": "Oasis", "hint": "A fertile spot in a desert, usually with water" },
+    { "word": "Whistle", "hint": "An instrument that produces a high-pitched sound" },
+    { "word": "Igloo", "hint": "A dome-shaped structure often found in icy regions" },
+    { "word": "Lighthouse", "hint": "A tower that helps guide ships at sea" },
+    { "word": "Scorpion", "hint": "An arachnid known for its pincers and tail" },
+    { "word": "Banana", "hint": "A yellow fruit that comes in bunches" },
+    { "word": "Telescope", "hint": "A device used to observe distant objects" },
+    { "word": "Cactus", "hint": "A plant adapted to dry environments" },
+    { "word": "Eclipse", "hint": "An event where one celestial body obscures another" },
+    { "word": "Lantern", "hint": "A portable source of light, often used outdoors" },
+    { "word": "Parrot", "hint": "A colorful bird known for its ability to mimic sounds" },
+    { "word": "Trampoline", "hint": "A piece of equipment used for bouncing" },
+    { "word": "Castle", "hint": "A historical structure often linked to nobility" },
+    { "word": "Butterfly", "hint": "An insect known for its transformation and colorful wings" },
+    { "word": "Submarine", "hint": "A vessel designed for underwater exploration" },
+    { "word": "Dolphin", "hint": "A highly social marine creature" },
+    { "word": "Jigsaw", "hint": "A game involving interlocking pieces" },
+    { "word": "Tornado", "hint": "A destructive weather phenomenon that spins" },
+    { "word": "Compass", "hint": "A tool that indicates direction" },
+    { "word": "Library", "hint": "A place where knowledge is stored and shared" },
+    { "word": "Giraffe", "hint": "An animal known for its long neck and spots" },
+    { "word": "Chocolate", "hint": "A sweet treat derived from cacao" },
+    { "word": "Robot", "hint": "A machine capable of performing tasks automatically" },
+    { "word": "Snowflake", "hint": "A unique form of frozen precipitation" },
+    { "word": "Kite", "hint": "A toy that flies in the wind" },
+    { "word": "Pyramid", "hint": "A geometric structure often associated with ancient civilizations" },
+    { "word": "Meteor", "hint": "An object from space that enters the Earth's atmosphere" },
+    { "word": "Saddle", "hint": "An item used for riding on animals" },
+    { "word": "Marathon", "hint": "A long-distance running event" },
+    { "word": "Whale", "hint": "A large marine mammal" },
+    { "word": "Acorn", "hint": "A nut that grows on oak trees" },
+    { "word": "Carousel", "hint": "A rotating ride often found at fairs" },
+    { "word": "Glacier", "hint": "A massive, slow-moving body of ice" },
+    { "word": "Bicycle", "hint": "A two-wheeled mode of transport" },
+    { "word": "Tapestry", "hint": "A fabric artwork often depicting stories" },
+    { "word": "Canoe", "hint": "A narrow boat propelled by paddling" },
+    { "word": "Guitar", "hint": "A stringed instrument played with fingers or a pick" },
+    { "word": "Mosaic", "hint": "An art form made by assembling small pieces" },
+    { "word": "Phoenix", "hint": "A mythical creature associated with rebirth" },
+    { "word": "Labyrinth", "hint": "A complex structure designed to confuse" },
+    { "word": "Chameleon", "hint": "A lizard that can change its color" },
+    { "word": "Pizza", "hint": "A round dish often topped with various ingredients" },
+    { "word": "Sushi", "hint": "A dish that combines rice and various fillings" },
+    { "word": "Pasta", "hint": "A staple food made from wheat and water" },
+    { "word": "Taco", "hint": "A dish consisting of a folded tortilla" },
+    { "word": "Toothbrush", "hint": "An implement for cleaning teeth" },
+    { "word": "Backpack", "hint": "A bag designed for carrying on one's back" },
+    { "word": "Clock", "hint": "An object used to measure the passage of time" },
+    { "word": "Mirror", "hint": "A reflective surface for personal care" },
+    { "word": "Lamp", "hint": "An object that emits light for visibility" }
+  ]
+}
